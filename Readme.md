@@ -4,8 +4,6 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 ## Study & Research Board 🏗️
 
-This repository is organized into distinct sections, each representing a different aspect of my research process, along with a section for important bookmarks.
-
 <details>
 <summary><strong>1. To-Do 📋</strong></summary>
 <br>
@@ -68,8 +66,8 @@ This repository is organized into distinct sections, each representing a differe
 
 ## Contributing 🤝
 
-While this is a personal research repository, insights and suggestions are always welcome. If you have any ideas or resources that could contribute to my study, please feel free to open an issue or submit a pull request.
+While this is a personal research repository, insights and suggestions are always welcome. If you have any ideas or resources that could contribute to my study, please feel free to open an issue or discussion.
 
 ## Contact 📬
 
-For any inquiries or collaboration proposals, please reach out via [your preferred contact method].
+For any inquiries or collaboration proposals, please reach out via [Hamid AT europe DOT com ].
