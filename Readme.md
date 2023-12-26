@@ -12,8 +12,8 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 | Title | Tags | Links |
 |-------|------|-------|
-| Task 1 | `Tag1`, `Tag2` | [Link1](URL) |
-| Task 2 | `Tag1`, `Tag3` | [Link2](URL) |
+| Task 1 | `Tag1`, `Tag27` | [Link1](URL) |
+| Task 2 | `Tag1`, `Tag3` | [Link29](URL) |
 | Polygon CDK | `Tag1`, `Tag3` | [Link2](URL) |
 
 
@@ -28,7 +28,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 | Title | Tags | Progress Updates | Links |
 |-------|------|------------------|-------|
-| Task 1 | `Tag1`, `Tag2` | Update 1 | [Link1](URL) |
+| Task 1 | `Tag1`, `Tag23` | Update 1 | [Link1](URL) |
 
 
 </details>
@@ -41,7 +41,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 | Title | Tags | Summary | Readme Link |
 |-------|------|---------|-------------|
-| Task 1 | `Tag1`, `Tag2` | Summary of Task 1 | [Readme](URL) |
+| Task 1 | `Tag1`, `Tag45` | Summary of Task 1 | [Readme](URL) |
 
 
 </details>
@@ -58,7 +58,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Title | Tags | Description | Link |
 |-------|------|-------------|------|
 | Bookmark 1 | `Tag1`, `Tag4` | Short description | [Link](URL) |
-| Bookmark 2 | `Tag2`, `Tag5` | Short description | [Link](URL) |
+| Bookmark 2 | ``, `Tag5` | Short description | [Link](URL) |
 
 
 
