@@ -69,6 +69,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | WTF academy | `soldity`, `courses` | WTF academy offers practical and useful courses on solidity | [Link](https://www.wtf.academy/en/) |
 | MEV Dashboard | `MEV` | lib MEV dashboard | [Link](https://libmev.com/dashboard) |
 | Harvard Blockchain | `blockchain`, `mentorship`, `incubator` | Harvard Blockchain  | [Link](https://www.harvardblockchain.xyz/) |
+| Every Programer Should Know | `programming` | best practice, talks, ...| [Link](https://github.com/mtdvio/every-programmer-should-know) |
 
 
 </details>
