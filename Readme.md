@@ -76,5 +76,6 @@ While this is a personal research repository, insights and suggestions are alway
 
 For any inquiries or collaboration proposals, please reach out via [Hamid AT europe DOT com ].
 
+> I'm attempting to substitute the content from the [@hamidList](https://t.me/hamidList) Telegram channel into this repository.
 
 
