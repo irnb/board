@@ -35,6 +35,9 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 |-------|------|------------------|-------|
 | Leveraging Validium for XDC | `blockchain`, `proposal`, `layer2`, `proposal` | data gathering | [page](./content/projects/xdc-validuim.md) |
 | One time contract | `solidity`, `ethereum` | implementation | [page](./content/projects/one-time-contract.md) |
+| Comprehensive Rust | `programming`, `rust`, `learning` | reading | [page](./content/topics/rust.md) |
+| Halo2 | `zkp`, `programming`, `learning` | reading | [page](./content/topics/halo2.md) |
+| Nova | `zkp`, `programming`, `learning` | reading | [page](./content/topics/nova.md) |
 
 
 </details>
