@@ -64,6 +64,10 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 </details>
 
+## Aggregated Tags
+
+`Tag1` `Tag23` `Tag27` `Tag3` `Tag4` `Tag45` `Tag5`
+
 ## Contributing 🤝
 
 While this is a personal research repository, insights and suggestions are always welcome. If you have any ideas or resources that could contribute to my study, please feel free to open an issue or discussion.
@@ -71,3 +75,6 @@ While this is a personal research repository, insights and suggestions are alway
 ## Contact 📬
 
 For any inquiries or collaboration proposals, please reach out via [Hamid AT europe DOT com ].
+
+
+
