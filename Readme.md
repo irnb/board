@@ -1,7 +1,3 @@
-Understood. I'll modify the README template to make 'Bookmarks' a separate section and incorporate collapsible sections for 'To-Do', 'In Progress', 'Done', and 'Bookmarks'. This will help in organizing the content more efficiently and make the README cleaner.
-
----
-
 # Board - Blockchain Research and Study Repository 🌐
 
 Welcome to the **Board** repository 📚, where I focus on blockchain research and study, exploring various concepts, technologies, and developments in this exciting field.
