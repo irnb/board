@@ -34,6 +34,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Title | Tags | Progress Updates | Links |
 |-------|------|------------------|-------|
 | Leveraging Validium for XDC | `blockchain`, `proposal`, `layer2`, `proposal` | data gathering | [page](./content/projects/xdc-validuim.md) |
+| One time contract | `solidity`, `ethereum` | implementation | [page](./content/projects/one-time-contract.md) |
 
 
 </details>
