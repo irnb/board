@@ -62,14 +62,14 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 | Title | Tags | Description | Link |
 |-------|------|-------------|------|
-| yAcademy zk fellowship | `zkp`, `summa` , `proof_of_reserve` | yAcademy run fellowship program for security audit of summa Circuit | [Link](https://yacademy.dev/fellowships/zk-fellowships/) |
-| Owshen | `privacy`, `zkp` | privacy protocol| [Link](https://owshen.io/) |
-| EthGlobal Events | `hackathon`, `events`, `showcases` | EthGlobal organizes hackathons and events | [Link](https://ethglobal.co/) |
-| Ethresear.ch | `research`, `ethresear` | Ethresear.ch is a forum for research papers and discussion | [Link](https://ethresear.ch/) |
-| WTF academy | `soldity`, `courses` | WTF academy offers practical and useful courses on solidity | [Link](https://www.wtf.academy/en/) |
-| MEV Dashboard | `MEV` | lib MEV dashboard | [Link](https://libmev.com/dashboard) |
-| Harvard Blockchain | `blockchain`, `mentorship`, `incubator` | Harvard Blockchain  | [Link](https://www.harvardblockchain.xyz/) |
-| Every Programer Should Know | `programming` | best practice, talks, ...| [Link](https://github.com/mtdvio/every-programmer-should-know) |
+| yAcademy zk fellowship | `zkp`, `summa` , `proof_of_reserve` | yAcademy run fellowship program for security audit of summa Circuit | <a href="https://yacademy.dev/fellowships/zk-fellowships/" target="_blank">Link</a> |
+| Owshen | `privacy`, `zkp` | privacy protocol| <a href="https://owshen.io/" target="_blank">Link</a> |
+| EthGlobal Events | `hackathon`, `events`, `showcases` | EthGlobal organizes hackathons and events | <a href="https://ethglobal.co/" target="_blank">Link</a> |
+| Ethresear.ch | `research`, `ethresear` | Ethresear.ch is a forum for research papers and discussion | <a href="https://ethresear.ch/" target="_blank">Link</a> |
+| WTF academy | `soldity`, `courses` | WTF academy offers practical and useful courses on solidity | <a href="https://www.wtf.academy/en/" target="_blank">Link</a> |
+| MEV Dashboard | `MEV` | lib MEV dashboard | <a href="https://libmev.com/dashboard" target="_blank">Link</a> |
+| Harvard Blockchain | `blockchain`, `mentorship`, `incubator` | Harvard Blockchain  | <a href="https://www.harvardblockchain.xyz/" target="_blank">Link</a> |
+| Every Programer Should Know | `programming` | best practice, talks, ...| <a href="https://github.com/mtdvio/every-programmer-should-know" target="_blank">Link</a> |
 
 
 </details>
