@@ -1,7 +1,7 @@
 import re
 
 def extract_tags(readme_content):
-    pattern = r"`(Tag\w+)`"  # Adjust the regex pattern based on your tag format
+    pattern = r"`(\w+)`"  # Adjust the regex pattern based on your tag format
     return set(re.findall(pattern, readme_content))
 
 def update_readme_with_tags(readme_content, tags):

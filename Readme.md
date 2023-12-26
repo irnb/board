@@ -12,15 +12,15 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 | Title | Tags | Pages |
 |-------|------|-------|
-| Polygon CDK | `layer2`, `zkp`, `programming` | [Page](./content/projects/polygon.md) |
+| Polygon CDK | `layer2`, `zkp`, `programming` | [Page](./content/projects/polygon-cdk.md) |
 | celestia | `blockchain`, `research` | [Page](./content/projects/celestia.md) |
 | MEV Burn | `MEV`, `research` | [Page](./content/topics/mev-burn.md) |
 | PSE ZKEVM | `zkp`, `programming` | [Page](./content/projects/pse-zkevm.md) |
 | Verifiable Delay Functions | `zkp`, `research` | [Page](./content/topics/vdf.md) |
 | Verkle Trees | `ethereum`, `research`, `verkle` | [Page](./content/topics/verkle-trees.md) |
-| Flashbots SUAVE | `mev`, `client_architecture`, `research` | [Page](./content/projects/flashbots-suave.md) |
+| Flashbots SUAVE | `MEV`, `client_architecture`, `research` | [Page](./content/projects/flashbots-suave.md) |
 | PBS | `blockchain`, `client_architecture`, `research` | [Page](./content/topics/pbs.md) |
-| MEV General | `mev`, `research` | [Page](./content/topics/mev-general.md) |
+| MEV General | `MEV`, `research` | [Page](./content/topics/mev-general.md) |
 
 
 </details>
@@ -65,7 +65,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | yAcademy zk fellowship | `zkp`, `summa` , `proof_of_reserve` | yAcademy run fellowship program for security audit of summa Circuit | [Link](https://yacademy.dev/fellowships/zk-fellowships/) |
 | Owshen | `privacy`, `zkp` | privacy protocol| [Link](https://owshen.io/) |
 | EthGlobal Events | `hackathon`, `events`, `showcases` | EthGlobal organizes hackathons and events | [Link](https://ethglobal.co/) |
-| Ethresear.ch | `research`, `ethresear.ch` | Ethresear.ch is a forum for research papers and discussion | [Link](https://ethresear.ch/) |
+| Ethresear.ch | `research`, `ethresear` | Ethresear.ch is a forum for research papers and discussion | [Link](https://ethresear.ch/) |
 | WTF academy | `soldity`, `courses` | WTF academy offers practical and useful courses on solidity | [Link](https://www.wtf.academy/en/) |
 | MEV Dashboard | `MEV` | lib MEV dashboard | [Link](https://libmev.com/dashboard) |
 | Harvard Blockchain | `blockchain`, `mentorship`, `incubator` | Harvard Blockchain  | [Link](https://www.harvardblockchain.xyz/) |
@@ -76,7 +76,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 ## Aggregated Tags
 
-`Tag1` `Tag23` `Tag27` `Tag3` `Tag4` `Tag45` `Tag5`
+`MEV` `blockchain` `client_architecture` `courses` `ethereum` `events` `hackathon` `incubator` `layer2` `mentorship` `privacy` `programming` `proof_of_reserve` `research` `showcases` `soldity` `summa` `verkle` `zkp`
 
 ## Contributing 🤝
 
