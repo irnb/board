@@ -38,6 +38,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Comprehensive Rust | `programming`, `rust`, `learning` | reading | [page](./content/topics/rust.md) |
 | Halo2 | `zkp`, `programming`, `learning` | reading | [page](./content/topics/halo2.md) |
 | Nova | `zkp`, `programming`, `learning` | reading | [page](./content/topics/nova.md) |
+| Geth Analysis | `ethereum`, `research` | data gathering | [page](./content/topics/geth-analysis.md) |
 
 
 </details>
