@@ -33,7 +33,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 | Title | Tags | Progress Updates | Links |
 |-------|------|------------------|-------|
-| Task 1 | `Tag1`, `Tag23` | Update 1 | [Link1](URL) |
+| Leveraging Validium for XDC | `blockchain`, `proposal`, `layer2`, `proposal` | data gathering | [Link1](./content/projects/xdc-validuim.md) |
 
 
 </details>
@@ -71,6 +71,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Harvard Blockchain | `blockchain`, `mentorship`, `incubator` | Harvard Blockchain  | [Link](https://www.harvardblockchain.xyz/) |
 | Every Programer Should Know | `programming` | best practice, talks, ...| [Link](https://github.com/mtdvio/every-programmer-should-know) |
 
+> Due to security reasons, GitHub prevents opening links in a new tab. However, you can use `Ctrl + Click` to open the links in a new tab.
 
 </details>
 
