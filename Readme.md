@@ -26,6 +26,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Decentralized sequencer | `layer2` | null |
 | Evm parallelism | `evm` | null |
 | Evm object format | `evm` | null |
+| Make Ethereum Cypherpunk Again | `ethereum` | null |
 
 
 </details>
