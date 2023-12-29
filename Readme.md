@@ -22,7 +22,10 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | PBS | `blockchain`, `client_architecture`, `research` | [Page](./content/topics/pbs.md) |
 | MEV General | `MEV`, `research` | [Page](./content/topics/mev-general.md) |
 | ERC-2535: Diamonds, Multi-Facet Proxy | `solidity` | [Page](./content/topics/dimonds-standard.md)|
-|flashbots matchmaker and mevshare | `MEV` | null |
+| flashbots matchmaker and mevshare | `MEV` | null |
+| Decentralized sequencer | `layer2` | null |
+| Evm parallelism | `evm` | null |
+| Evm object format | `evm` | null |
 
 
 </details>
