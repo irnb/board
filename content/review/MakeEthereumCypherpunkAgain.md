@@ -3,7 +3,8 @@
 Exploring 'Make Ethereum Cypherpunk Again': Comprehensive Analysis and Personal Reflections
 
 > **Main Article Link**: [https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html]
-> **Author**: Vitalik Buterin
+>> **Author**: Vitalik Buterin
+
 
 ### table of contents
 - [ summary](#summary)
