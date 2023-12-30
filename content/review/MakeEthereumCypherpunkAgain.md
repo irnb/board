@@ -18,11 +18,20 @@
 
 ---
 
-### summary
+### Summary of Vitalik's Blog Post
+
 <a name="summary"></a>
 
 
-This article is a comprehensive analysis of the article 'Make Ethereum Cypherpunk Again' by Vitalik Buterin. It is a very long article, so I will try to summarize it as much as possible. The article is divided into 6 parts, and I will try to summarize each part.
+In his reflective piece, Vitalik Buterin revisits his early Bitcoin experiences, contrasting them with recent encounters in Zazalu. These reminiscences serve as a springboard for reevaluating the foundational objectives of blockchain and cryptocurrency. Vitalik observes a deviation from the initial ambition of fostering a decentralized base layer for the internet and human communication. He identifies key challenges, including scalability and privacy, which have inadvertently steered blockchain infrastructure towards predominantly financial applications.
+
+Vitalik also touches on the perception of the first decentralized communities towards blockchain, noting that they often see it as a distraction. He suggests avenues to change this negative viewpoint and realign blockchain with its initial decentralization goals.
+
+Furthermore, Vitalik addresses the concerning state of our current online infrastructure, marked by the emergence of a 'Splinternet' — a fragmented and controlled digital landscape. This observation segues into an examination of Ethereum's present condition and its alignment with the original cypherpunk vision. Vitalik highlights solutions such as Zero-Knowledge Proofs (ZKP), underscoring their potential in realigning Ethereum with its foundational goals of decentralization and privacy.
+
+**I highly recommend reading Vitalik's original post for its in-depth insights and the valuable links it provides.** In my article, I aim to delve deeper into certain topics he discusses, offering my critique and perspective on Ethereum's current trajectory. Additionally, I will share the research I'm going to start, directions inspired by Vitalik's insights, reflecting on how they might shape future developments in the blockchain space.
+
+---
 
 ### web3
 <a name="web3"></a>
