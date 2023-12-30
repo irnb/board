@@ -82,6 +82,7 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | MEV Dashboard | `MEV` | lib MEV dashboard | [Link](https://libmev.com/dashboard) |
 | Harvard Blockchain | `blockchain`, `mentorship`, `incubator` | Harvard Blockchain  | [Link](https://www.harvardblockchain.xyz/) |
 | Every Programer Should Know | `programming` | best practice, talks, ...| [Link](https://github.com/mtdvio/every-programmer-should-know) |
+| Kendrick blog |`zkp`, `programming`, `blockchain`, `blog` | valuable blockchain related blog post | [link](https://kndrck.co) |
 
 > Due to security reasons, GitHub prevents opening links in a new tab. However, you can use `Ctrl + Click` to open the links in a new tab.
 
