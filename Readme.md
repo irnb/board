@@ -26,7 +26,6 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Decentralized sequencer | `layer2` | null |
 | Evm parallelism | `evm` | null |
 | Evm object format | `evm` | null |
-| Make Ethereum Cypherpunk Again | `ethereum` | null |
 | UniswapX | `defi` | null |
 
 
@@ -56,9 +55,10 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 
 > Completed tasks and studies are archived here.
 
-| Title | Tags | Summary | Readme Link |
+| Title | Tags | Summary |  Link |
 |-------|------|---------|-------------|
-| Task 1 | `Tag1`, `Tag45` | Summary of Task 1 | [Readme](URL) |
+| Make Ethereum Cypherpunk Again | `ethereum` | review article | [page](./content/review/MakeEthereumCypherpunkAgain.md) |
+
 
 
 </details>
