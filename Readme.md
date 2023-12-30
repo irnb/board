@@ -1,4 +1,4 @@
-# Board - Blockchain Research and Study Repository 🌐
+# Board - Research and Study Repository 🌐
 
 Welcome to the **Board** repository 📚, where I focus on blockchain research and study, exploring various concepts, technologies, and developments in this exciting field.
 
