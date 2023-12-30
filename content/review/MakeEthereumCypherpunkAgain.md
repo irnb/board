@@ -7,13 +7,13 @@ Exploring 'Make Ethereum Cypherpunk Again': Comprehensive Analysis and Personal 
 
 ### table of contents
 - [ summary](#summary)
-- [ Initial idea of the Web3](###web3)
-- [ Ethereum decentralization](###decentralization)
-- [ Non-Blockchain decentralization](###non-blockchain)
-- [ Real-world integration](###real-world)
-- [ Building Tools, Not Empires](###tools)
-- [ My inspiration](###inspiration)
-- [ Conclusion](###conclusion)
+- [ Initial idea of the Web3](#web3)
+- [ Ethereum decentralization](#decentralization)
+- [ Non-Blockchain decentralization](#non-blockchain)
+- [ Real-world integration](#real-world)
+- [ Building Tools, Not Empires](#tools)
+- [ My inspiration](#inspiration)
+- [ Conclusion](#conclusion)
 
 ---
 
