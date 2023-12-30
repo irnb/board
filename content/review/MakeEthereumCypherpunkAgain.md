@@ -15,7 +15,6 @@
 - [ 🔗 Non-Blockchain decentralization](#non-blockchain)
 - [ 🌍 Real-world integration](#real-world)
 - [ 💭 My inspiration](#inspiration)
-- [ 🔚 Conclusion](#conclusion)
 
 ---
 
@@ -108,7 +107,7 @@ Tools like Tor and Signal, while not decentralized in the blockchain sense, cont
 While distinct from blockchain, the non-blockchain decentralization movement shares common goals with it, such as reducing central control and enhancing user empowerment. There is growing collaboration between these areas, with each complementing the other in the quest for a more decentralized digital world.
 
 
-### 🌍 Real-world integration
+## 🌍 Real-world integration
 <a name="real-world"></a>
 
 The ultimate ambition of blockchain technology is not merely to exist as a backdrop for financial games but to be integrated seamlessly into our everyday lives. Imagine a world where one can travel globally, using cryptocurrency for all aspects of living. This vision of real-world integration of blockchain technology goes beyond its current financial-centric use.
@@ -132,13 +131,28 @@ Beyond Financial Applications
 Blockchain's potential extends into various other aspects of life. Trust minimization in AI models is one such area. if i want make summary about the non financial uncase in one word, i can say **d/acc**
 
 
-### inspiration
+## inspiration
 <a name="inspiration"></a>
 
-The sixth part of the article is about the inspiration. The author mentioned that the inspiration is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the inspiration is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the inspiration is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the inspiration is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the inspiration is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the inspiration is not only about the decentralized internet, but also about the decentralized internet.
+After reading Vitalik's blog post, I've gained several insights and ideas that have inspired me to embark on various research and development projects. Here's an overview of what I plan to do:
 
-### conclusion
-<a name="conclusion"></a>
 
-The last part of the article is about the conclusion. The author mentioned that the conclusion is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the conclusion is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the conclusion is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the conclusion is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the conclusion is not only about the decentralized internet, but also about the decentralized internet. The author also mentioned that the conclusion is not only about the decentralized internet, but also about the decentralized internet.
+
+1. Exploring Privacy on the Ethereum Virtual Machine (EVM)
+
+   These solutions partially address privacy concerns but also introduce new challenges. The primary issue lies in how these approaches, involving contract interactions, create an anonymity set. Unfortunately, this set often represents only a small fraction of the entire network. To tackle this, we are exploring ways to expand the anonymity set to encompass the size of all active addresses. Five months ago, my colleague and I proposed EIP7503, which introduces an innovative approach to interact with contracts and protocols indirectly, utilizing Zero-Knowledge Proofs (ZKP). This method allows for engagement without direct transactions. However, a critical challenge we face is how to manage temporary, transferable burn addresses effectively within this framework.
+
+   I believe technologies like Multi-Party Computation (MPC) and Fully Homomorphic Encryption (FHE) might offer solutions in the future. I plan to write in-depth about these concepts and the current limitations we face.
+
+2. Deploying DApps to IPFS and Using ENS 
+   
+   Another area of interest is how to deploy decentralized applications (DApps) to IPFS (InterPlanetary File System) and serve them through Ethereum Name Service (ENS). This process involves using valid DApp addresses and integrating with tools like MetaMask Snaps to prevent phishing attacks. I aim to provide a comprehensive guide on this process.
+
+3. Writing about ZK-OTP Idea on Eth-Research
+4. Reviewing ZK-Email 
+5. Researching Ethereum's Decentralization and Censorship Resistance
+
+   A crucial part of my research will focus on the current state of decentralization and censorship resistance in Ethereum, particularly in the context of Miner Extractable Value (MEV) and Proposer Builder Separation (PBS). I aim to explore how these factors affect the network's overall resilience and censorship status.
+
+6. Write about the concept of reusable temporary contracts on Eth-Research and implement a simplified version of this approach.
 
