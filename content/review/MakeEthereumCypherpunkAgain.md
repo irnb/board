@@ -1,20 +1,20 @@
 ## Exploring 'Make Ethereum Cypherpunk Again' 🔍
 
-Exploring 'Make Ethereum Cypherpunk Again': Comprehensive Analysis and Personal Reflections
+**Exploring 'Make Ethereum Cypherpunk Again': Comprehensive Analysis and Personal Reflections**
 
 > **Main Article Link**: [https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html]
->> **Author**: Vitalik Buterin
+>> 🖊️ **Author**: Vitalik Buterin
 
 
 ### table of contents
-- [ summary](#summary)
-- [ Initial idea of the Web3](#web3)
-- [ Ethereum decentralization](#decentralization)
-- [ Non-Blockchain decentralization](#non-blockchain)
-- [ Real-world integration](#real-world)
-- [ Building Tools, Not Empires](#tools)
-- [ My inspiration](#inspiration)
-- [ Conclusion](#conclusion)
+- [ 🔖 summary](#summary)
+- [ 💡 Initial idea of the Web3](#web3)
+- [ 🌐 Ethereum decentralization](#decentralization)
+- [ 🔗 Non-Blockchain decentralization](#non-blockchain)
+- [ 🌍 Real-world integration](#real-world)
+- [ 🛠️ Building Tools, Not Empires](#tools)
+- [ 💭 My inspiration](#inspiration)
+- [ 🔚 Conclusion](#conclusion)
 
 ---
 
