@@ -6,7 +6,7 @@
 >> 🖊️ **Author**: Vitalik Buterin
 
 > If you prefer HackMD you can read my article in HackMD form this link
->> link : []
+>> link : [https://hackmd.io/@irnb/ethereum-freedom]
 
 
 ### table of contents
