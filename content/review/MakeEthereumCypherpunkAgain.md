@@ -14,7 +14,7 @@
 - [ 🚧 Web3 Goals & Challenges ](#web3)
 - [ 🔗 Non-Blockchain decentralization](#non-blockchain)
 - [ 🌍 Real-world integration](#real-world)
-- [ 💭 My inspiration](#inspiration)
+- [ 💭 From Insight to Action](#inspiration)
 
 ---
 
@@ -131,7 +131,7 @@ Beyond Financial Applications
 Blockchain's potential extends into various other aspects of life. Trust minimization in AI models is one such area. if i want make summary about the non financial uncase in one word, i can say **d/acc**
 
 
-## inspiration
+## 💭 From Insight to Action
 <a name="inspiration"></a>
 
 After reading Vitalik's blog post, I've gained several insights and ideas that have inspired me to embark on various research and development projects. Here's an overview of what I plan to do:
