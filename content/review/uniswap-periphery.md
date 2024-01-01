@@ -2,7 +2,7 @@
 
 > *Assumption: The reader is already familiar with Automated Market Makers (AMM) and ERC20 tokens.*
 
-> HackMD Link: []
+> HackMD Link: [https://hackmd.io/@irnb/uniswap-periphery]
 
 
 ## 🧩 Problem Statement
