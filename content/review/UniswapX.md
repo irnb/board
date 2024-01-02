@@ -15,6 +15,10 @@ I've reviewed the [UniswapX Whitepaper](https://uniswap.org/whitepaper-uniswapx.
 ### Bridge Architecture
 :bridge_at_night: Further research on bridge architecture is needed to fully understand its implications and applications within UniswapX.
 
+### MEV
+:shield: UniswapX's approach with fillers doesn't completely solve the MEV problem. Instead, it introduces competition between fillers (including MEV searchers and market makers). The outcome of this competition helps users to be less affected by MEV attackers.
+
+
 ## :loudspeaker: Outputs
 
 1. **Axiom Community Outreach**
