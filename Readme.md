@@ -26,7 +26,6 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Decentralized sequencer | `layer2` | null |
 | Evm parallelism | `evm` | null |
 | Evm object format | `evm` | null |
-| UniswapX | `defi` | null |
 | P2P Distpatchig System | | |
 
 
@@ -61,6 +60,8 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 |-------|------|---------|-------------|
 | Make Ethereum Cypherpunk Again | `ethereum` | review article | [page](./content/review/MakeEthereumCypherpunkAgain.md) |
 | Why Uniswap V2 & V3 Need a Periphery Contract | `uniswap`, `defi`, `dex` | article | [page](./content/review/uniswap-periphery.md) |
+| UniswapX | `uniswap`, `defi`, `dex` | review and output | [page](./content/review/UniswapX.md) |
+
 
 
 
