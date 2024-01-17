@@ -1,4 +1,7 @@
 http://learn.0xparc.org/materials/halo2/learning-group-1/introduction
+https://www.remnote.com/a/Halo2-Notes/63c6758305f78c10a175b0c5
+
+
 
 https://zkiap.com
 
