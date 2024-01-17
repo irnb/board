@@ -27,6 +27,11 @@ Welcome to the **Board** repository 📚, where I focus on blockchain research a
 | Evm parallelism | `evm` | null |
 | Evm object format | `evm` | null |
 | P2P Distpatchig System | | |
+| CustodianScore.com | | |
+| Decentrlized Sequencer in L2 | | |
+| Boojum Prooving System | | |
+
+
 
 
 
