@@ -76,7 +76,8 @@ https://hackmd.io/@jake
 https://hackmd.io/@jake/plonk-arithmetization
 
 
-
+Zero Knowledge Proofs MOOC
+https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs
 
 
 
