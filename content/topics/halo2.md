@@ -72,6 +72,11 @@ https://www.youtube.com/watch?v=60lkR8DZKUA
 https://sweltering-bill-f01.notion.site/zBlock2-Library-b144843ad85f420c85b56ee104e3f550
 
 
+https://hackmd.io/@jake
+https://hackmd.io/@jake/plonk-arithmetization
+
+
+
 
 
 
