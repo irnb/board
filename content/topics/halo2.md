@@ -80,6 +80,10 @@ Zero Knowledge Proofs MOOC
 https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs
 
 
+** Talk: Scroll workshop at Jessy’s hacker house
+Author of this post: 0xSachinK
+https://hackmd.io/@-Ox5eD7zRP-Yj3OINkfltg/rkd7P4cj2
+
 
 
 
