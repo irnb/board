@@ -66,6 +66,13 @@ Sin7Y Tech Review: Develop Circuits Using Halo 2
 https://hackernoon.com/sin7y-tech-review-develop-circuits-using-halo-2
 
 
+Building and Testing Circuits with halo2-ce: An Introductory Workshop
+https://www.youtube.com/watch?v=60lkR8DZKUA
+
+https://sweltering-bill-f01.notion.site/zBlock2-Library-b144843ad85f420c85b56ee104e3f550
+
+
+
 
 
 
