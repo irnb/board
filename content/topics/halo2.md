@@ -36,5 +36,42 @@ Paring on EC gave us Multiplication verification ability
 This is a significantly cooler way to introduce ZKP to someone than using the color blind example.
 https://medium.com/@ssanti/zero-knowledge-proof-hamiltonian-cycle-for-a-large-graph-5d423ddcc45d
 
+Halo2 Frontend: Expression, Calculation And Its Evaluation
+https://hackmd.io/@FrankJLiu/Sk61V29Mp
+
+
+https://halo2.club
+
+PSE Halo2 VS ECC Halo2 => KZG VS IPA ad commitment scheme. 
+https://docs.axiom.xyz/transparency-and-security/kzg-trusted-setup
+https://github.com/privacy-scaling-explorations/halo2-solidity-verifier
+
+
+https://docs.rs/releases/search?query=halo2
+
+Building a Zero Knowledge web app with Halo 2 and Wasm 
+https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-1-80858c8d16ee
+https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-2-379477444dc3
+
+ZK Whiteboard Sessions
+https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq
+
+ZK Symposium
+https://www.youtube.com/playlist?list=PLrzRr7okCcmbAlgYpuFjzUJv8tAyowDQY
+
+Proofs, Arguments, and Zero-Knowledge (  justin.thaler )
+https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html
+
+
+
+
+
+
+
+
+
+
+
+
 
 
