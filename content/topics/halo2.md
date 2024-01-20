@@ -62,8 +62,8 @@ https://www.youtube.com/playlist?list=PLrzRr7okCcmbAlgYpuFjzUJv8tAyowDQY
 Proofs, Arguments, and Zero-Knowledge (  justin.thaler )
 https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html
 
-
-
+Sin7Y Tech Review: Develop Circuits Using Halo 2
+https://hackernoon.com/sin7y-tech-review-develop-circuits-using-halo-2
 
 
 
