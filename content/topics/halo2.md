@@ -84,6 +84,9 @@ https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs
 Author of this post: 0xSachinK
 https://hackmd.io/@-Ox5eD7zRP-Yj3OINkfltg/rkd7P4cj2
 
+https://github.com/ingonyama-zk/papers/blob/main/halo2_community_detection_research.pdf
+
+
 
 
 
