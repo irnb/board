@@ -86,6 +86,13 @@ https://hackmd.io/@-Ox5eD7zRP-Yj3OINkfltg/rkd7P4cj2
 
 https://github.com/ingonyama-zk/papers/blob/main/halo2_community_detection_research.pdf
 
+Halo 2 - with PSE, Present by CC Liang
+https://www.youtube.com/watch?v=wSfkpJDq8AI
+https://www.youtube.com/watch?v=ihPcnctm4q4&t=4s
+
+
+
+
 
 
 
