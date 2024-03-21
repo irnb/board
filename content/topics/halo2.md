@@ -91,8 +91,8 @@ https://www.youtube.com/watch?v=wSfkpJDq8AI
 https://www.youtube.com/watch?v=ihPcnctm4q4&t=4s
 
 
-
-
+***
+https://erroldrummond.gitbook.io/halo2-tutorial
 
 
 
